@@ -1,0 +1,107 @@
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "0jY-dl-XGv"; */
+"0jY-dl-XGv.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Счет"; ObjectID = "0n5-Yp-kFS"; */
+"0n5-Yp-kFS.text" = "Счет";
+
+/* Class = "UILabel"; text = "Счет"; ObjectID = "1XO-Hm-qsb"; */
+"1XO-Hm-qsb.text" = "Счет";
+
+/* Class = "UILabel"; text = "Рекорд"; ObjectID = "1xt-je-KXf"; */
+"1xt-je-KXf.text" = "Рекорд";
+
+/* Class = "UIViewController"; title = "Правда или Ложь"; ObjectID = "24Z-C0-aaB"; */
+"24Z-C0-aaB.title" = "Правда или Ложь";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "3cE-dv-d8W"; */
+"3cE-dv-d8W.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Новая игра"; ObjectID = "B8L-9R-68X"; */
+"B8L-9R-68X.normalTitle" = "Новая игра";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Dd1-SN-rkN"; */
+"Dd1-SN-rkN.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Счет"; ObjectID = "GIQ-uz-hXV"; */
+"GIQ-uz-hXV.text" = "Счет";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Gh0-nD-La7"; */
+"Gh0-nD-La7.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Русский"; ObjectID = "H1k-AK-517"; */
+"H1k-AK-517.normalTitle" = "Русский";
+
+/* Class = "UIButton"; normalTitle = "Большой выбор"; ObjectID = "ISS-cQ-UPu"; */
+"ISS-cQ-UPu.normalTitle" = "Большой выбор";
+
+/* Class = "UIButton"; normalTitle = "Правда или Ложь"; ObjectID = "Ieh-FT-MmN"; */
+"Ieh-FT-MmN.normalTitle" = "Правда или Ложь";
+
+/* Class = "UILabel"; text = "Рекорд"; ObjectID = "KBY-EU-gNC"; */
+"KBY-EU-gNC.text" = "Рекорд";
+
+/* Class = "UILabel"; text = "Рекорд"; ObjectID = "Kye-w1-wET"; */
+"Kye-w1-wET.text" = "Рекорд";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "N7C-4V-17F"; */
+"N7C-4V-17F.normalTitle" = "English";
+
+/* Class = "UIButton"; normalTitle = "Рекордs"; ObjectID = "UNf-Ks-Pie"; */
+"UNf-Ks-Pie.normalTitle" = "Рекорды";
+
+/* Class = "UIViewController"; title = "Большой выбор"; ObjectID = "W6v-ml-g6C"; */
+"W6v-ml-g6C.title" = "Большой выбор";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Wqd-E3-mVg"; */
+"Wqd-E3-mVg.text" = "Label";
+
+/* Class = "UILabel"; text = "Изображение викторины:"; ObjectID = "Xoq-QF-iDf"; */
+"Xoq-QF-iDf.text" = "Изображение:";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Xtm-s3-6TB"; */
+"Xtm-s3-6TB.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dcv-cS-Cy9"; */
+"dcv-cS-Cy9.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Большой выбор:"; ObjectID = "hP8-F5-YY0"; */
+"hP8-F5-YY0.text" = "Большой выбор:";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "hnV-be-lRY"; */
+"hnV-be-lRY.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "kR5-m7-b0P"; */
+"kR5-m7-b0P.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Правда или Ложь:"; ObjectID = "n3D-a8-ksW"; */
+"n3D-a8-ksW.text" = "Правда или Ложь:";
+
+/* Class = "UIViewController"; title = "Изображение викторины"; ObjectID = "qBj-NR-BKK"; */
+"qBj-NR-BKK.title" = "Изображение";
+
+/* Class = "UIButton"; normalTitle = "Изображение викторины"; ObjectID = "qH1-4m-oTY"; */
+"qH1-4m-oTY.normalTitle" = "Изображение";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "v2H-WP-ecZ"; */
+"v2H-WP-ecZ.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "vlb-fP-BC3"; */
+"vlb-fP-BC3.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Язык"; ObjectID = "yBl-D3-HqS"; */
+"yBl-D3-HqS.normalTitle" = "Язык";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "yLf-e7-IQZ"; */
+"yLf-e7-IQZ.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Играть"; ObjectID = "yls-4O-yhG"; */
+"yls-4O-yhG.normalTitle" = "Играть";
+
+//"ZEW-8C-o7g.normalTitle" = "Английский";
+//"1mm-QD-Eop.normalTitle" = "Русский";
+//"jKo-k8-Qc5.normalTitle" = "Украинский";
+
+
+
+

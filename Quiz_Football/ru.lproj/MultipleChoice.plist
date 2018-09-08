@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<dict>
+			<key>Question</key>
+			<string>Каким английским словом называют в футболе опорного полузащитника?</string>
+			<key>Correct Answer</key>
+			<string>Плеймейкер</string>
+			<key>Answers</key>
+			<array>
+				<string>Патимейкер</string>
+				<string>Форвард</string>
+				<string>Плеймейкер</string>
+				<string>Хавбек</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Как по-другому называется штанга футбольных ворот?</string>
+			<key>Correct Answer</key>
+			<string>Боковая стойка </string>
+			<key>Answers</key>
+			<array>
+				<string>Перекладина</string>
+				<string>Боковая стойка </string>
+				<string>Боковая линия</string>
+				<string>Девятка</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Как футбольные болельщики прозвали судейскую желтую карточку? </string>
+			<key>Correct Answer</key>
+			<string>Горчичник</string>
+			<key>Answers</key>
+			<array>
+				<string>Грелка</string>
+				<string>Горчичник</string>
+				<string>Банка</string>
+				<string>Перцовый пластырь</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Предпоследний матч чемпионата – это… Что?</string>
+			<key>Correct Answer</key>
+			<string>Полуфинал</string>
+			<key>Answers</key>
+			<array>
+				<string>Плей-офф</string>
+				<string>Финал</string>
+				<string>Полуфинал</string>
+				<string>Матч за третье место</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Что показывает футболисту судья, удаляя его с поля?</string>
+			<key>Correct Answer</key>
+			<string>Красную карточку</string>
+			<key>Answers</key>
+			<array>
+				<string>Чёрную метку</string>
+				<string>Красную карточку</string>
+				<string>Жёлтую карточку</string>
+				<string>Белый флаг</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Что часто тянут игроки выигрывающей команды на футбольном поле?</string>
+			<key>Correct Answer</key>
+			<string>Время</string>
+			<key>Answers</key>
+			<array>
+				<string>Сетку</string>
+				<string>Время</string>
+				<string>Канат</string>
+				<string>Жребий</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>От названия какой части ноги произошло английское слово &quot;футбол&quot;?</string>
+			<key>Correct Answer</key>
+			<string>Ступня</string>
+			<key>Answers</key>
+			<array>
+				<string>Ступня</string>
+				<string>Голень</string>
+				<string>Бедро</string>
+				<string>Колено</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Кого из этих футбольных игроков называют форвардом? </string>
+			<key>Correct Answer</key>
+			<string>Нападающий</string>
+			<key>Answers</key>
+			<array>
+				<string>Защитник</string>
+				<string>Вратарь</string>
+				<string>Нападающий</string>
+				<string>Полузащитник</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Кто был талисманом чемпионата мира по футболу в Мексике в 1986 году?</string>
+			<key>Correct Answer</key>
+			<string>перчик Пике</string>
+			<key>Answers</key>
+			<array>
+				<string>мальчик Гаучито</string>
+				<string>мальчик Хуанито</string>
+				<string>перчик Пике</string>
+				<string>апельсинчик Наранхито</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Где прошел Чемпионат мира по футболу 2002 года?</string>
+			<key>Correct Answer</key>
+			<string>Азия</string>
+			<key>Answers</key>
+			<array>
+				<string>Азия</string>
+				<string>Европа</string>
+				<string>Африка</string>
+				<string>Южная Америка</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>За какую футбольную сборную выступал Роберто Карлос?</string>
+			<key>Correct Answer</key>
+			<string>Бразилия</string>
+			<key>Answers</key>
+			<array>
+				<string>Испания</string>
+				<string>Бразилия</string>
+				<string>Уругвай</string>
+				<string>Аргентина</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Сколько раз сборная СССР выигрывала чемпионат Европы по футболу?</string>
+			<key>Correct Answer</key>
+			<string>1</string>
+			<key>Answers</key>
+			<array>
+				<string>0</string>
+				<string>2</string>
+				<string>1</string>
+				<string>3</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Что означает футбольный термин &quot;судья указал на точку&quot;? </string>
+			<key>Correct Answer</key>
+			<string>Пенальти</string>
+			<key>Answers</key>
+			<array>
+				<string>Угловой</string>
+				<string>Центральное поле</string>
+				<string>Штрафной удар</string>
+				<string>Пенальти</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

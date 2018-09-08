@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<dict>
+			<key>Question</key>
+			<string>Месси действительно посвящает все свои цели своей бабушке, поднимая руки к небу?</string>
+			<key>Correct Answer</key>
+			<string>Правда</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Паоло Мальдини - игрок с наибольшим количеством участий в Лиге Чемпионов</string>
+			<key>Correct Answer</key>
+			<string>Ложь</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Балотелли: «Барселона» - единственный клуб в мире, у которого есть 2 стадиона. «Камп Ноу» для матчей и «Сантьяго Бернабеу» для тренировок</string>
+			<key>Correct Answer</key>
+			<string>Ложь</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Джанлуиджи Буффон: В отеле я не смотрю видео пенальти. Я смотрю видео для взрослых</string>
+			<key>Correct Answer</key>
+			<string>Правда</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Алекс Фергюсон: Моуринью - последний человек, которому стоит говорить о судьях. Для его же пользы ему лучше умолкнуть до конца сезона.</string>
+			<key>Correct Answer</key>
+			<string>Правда</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Пол Инс: Я люблю подкаты. Они даже лучше, чем секс.</string>
+			<key>Correct Answer</key>
+			<string>Правда</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Златан: Если бы мне дали «Золотой мяч», я бы на следующий день отдал его Месси</string>
+			<key>Correct Answer</key>
+			<string>Ложь</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Президент «Порту»: Икер Касильяс не оправдал наших ожиданий. Из-за него мы выбыли из Лиги чемпионов.</string>
+			<key>Correct Answer</key>
+			<string>Ложь</string>
+		</dict>
+	</array>
+</dict>
+</plist>

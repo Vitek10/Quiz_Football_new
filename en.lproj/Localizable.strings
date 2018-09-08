@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  Quiz_Football
+
+  Created by Витя on 28.07.17.
+  Copyright © 2017 Blan. All rights reserved.
+*/
+"Right" = "Right";
+"Wrong" = "Wrong";
+"Too very slow" = "Too very slow";
+"Incorrect answer" = "Incorrect answer";
+"Score" = "Score";
+"Highscore" = "Highscore";
+"restart" =  "In order to change language, the must be closed and reopened by you";
+"restartTitle" = "App restart required";
+"close" = "Close now";
+"cancel" = "Cancel";

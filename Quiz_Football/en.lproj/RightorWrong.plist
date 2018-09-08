@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<dict>
+			<key>Question</key>
+			<string>Messi really devotes all of his goals to his grandmother, raising his hands to heaven?</string>
+			<key>Correct Answer</key>
+			<string>Right</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Paolo Maldini - the player with the most participation in the Champions League</string>
+			<key>Correct Answer</key>
+			<string>Wrong</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Balotelli: Barcelona is the only club in the world that has 2 stadiums. &quot;Camp Nou&quot; for matches and &quot;Santiago Bernabeu&quot; for training</string>
+			<key>Correct Answer</key>
+			<string>Wrong</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Gianluigi Buffon: At the hotel I do not watch a penalty shootout. I&apos;m watching adult video</string>
+			<key>Correct Answer</key>
+			<string>Right</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Alex Ferguson: Mourinho is the last person to talk about judges. For his own good, he&apos;d better be silent until the end of the season.</string>
+			<key>Correct Answer</key>
+			<string>Right</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Paul Ince: I love rolling. They are even better than sex.</string>
+			<key>Correct Answer</key>
+			<string>Right</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Zlatan: If I were given the &quot;Golden Ball&quot;, I would have given it to Messi the next day</string>
+			<key>Correct Answer</key>
+			<string>Wrong</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>President of Porto: Iker Casillas did not live up to our expectations. Because of him, we dropped out of the Champions League.</string>
+			<key>Correct Answer</key>
+			<string>Wrong</string>
+		</dict>
+	</array>
+</dict>
+</plist>

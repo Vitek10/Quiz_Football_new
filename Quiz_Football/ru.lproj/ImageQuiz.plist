@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<dict>
+			<key>Question</key>
+			<string>president_FCB.png</string>
+			<key>Correct Answer</key>
+			<string>Хосеп Бартомеу</string>
+			<key>Answers</key>
+			<array>
+				<string>Мансур ибн Зайд аль-Нахайян</string>
+				<string>Хосеп Гвардиола</string>
+				<string>Халдун Аль Мубарак</string>
+				<string>Хосеп Бартомеу</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>messi.png</string>
+			<key>Correct Answer</key>
+			<string>Месси</string>
+			<key>Answers</key>
+			<array>
+				<string>Месси</string>
+				<string>Хави</string>
+				<string>Тотти</string>
+				<string>Неймар</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>stemford_bridge.png</string>
+			<key>Correct Answer</key>
+			<string>Стэмфорд Бридж</string>
+			<key>Answers</key>
+			<array>
+				<string>Уэмбли</string>
+				<string>Сантьяго Бернабеу</string>
+				<string>Стэмфорд Бридж</string>
+				<string>Метеор</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

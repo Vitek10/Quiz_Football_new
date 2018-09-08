@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<dict>
+			<key>Question</key>
+			<string>What English word is called in football as a defensive midfielder?</string>
+			<key>Correct Answer</key>
+			<string>Playmaker</string>
+			<key>Answers</key>
+			<array>
+				<string>Patimaker</string>
+				<string>Forward</string>
+				<string>Playmaker</string>
+				<string>Midfielder</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the name of the football goal posts?</string>
+			<key>Correct Answer</key>
+			<string>Lateral stand </string>
+			<key>Answers</key>
+			<array>
+				<string>Crossbar</string>
+				<string>Lateral stand </string>
+				<string>Sideline</string>
+				<string>Top corner</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>How did the football fans nickname the referees yellow card?</string>
+			<key>Correct Answer</key>
+			<string>Mustard plaster</string>
+			<key>Answers</key>
+			<array>
+				<string>Warmer</string>
+				<string>Mustard plaster</string>
+				<string>Pot</string>
+				<string>Pepper plaster</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>The penultimate championship match is called ... What it is?</string>
+			<key>Correct Answer</key>
+			<string>Semifinal</string>
+			<key>Answers</key>
+			<array>
+				<string>Play-off</string>
+				<string>Final</string>
+				<string>Semifinal</string>
+				<string>Match for third place</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What does the referee show the player by removing him from the field?</string>
+			<key>Correct Answer</key>
+			<string>Red card</string>
+			<key>Answers</key>
+			<array>
+				<string>Black mark</string>
+				<string>Red card</string>
+				<string>Yellow card</string>
+				<string>White card</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What often draw the players of the winning team on the football field?</string>
+			<key>Correct Answer</key>
+			<string>Time</string>
+			<key>Answers</key>
+			<array>
+				<string>Grid</string>
+				<string>Time</string>
+				<string>Rope</string>
+				<string>Draw</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is name part of the foot the English word &quot;football&quot; has occurred?</string>
+			<key>Correct Answer</key>
+			<string>Foot</string>
+			<key>Answers</key>
+			<array>
+				<string>Foot</string>
+				<string>Leg</string>
+				<string>Hip</string>
+				<string>Knee</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Which of these football players are called the forward?</string>
+			<key>Correct Answer</key>
+			<string>Attack</string>
+			<key>Answers</key>
+			<array>
+				<string>Defender</string>
+				<string>Goalkeeper</string>
+				<string>Attack</string>
+				<string>Midfielder</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Who was the mascot of the FIFA World Cup in Mexico in 1986?</string>
+			<key>Correct Answer</key>
+			<string>pepper Pique</string>
+			<key>Answers</key>
+			<array>
+				<string>boy Gaucito</string>
+				<string>boy Juanito</string>
+				<string>pepper Pique</string>
+				<string>orange Naranhito</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Where was the 2002 FIFA World Cup?</string>
+			<key>Correct Answer</key>
+			<string>Asia</string>
+			<key>Answers</key>
+			<array>
+				<string>Asia</string>
+				<string>Europe</string>
+				<string>Africa</string>
+				<string>South America</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the national team of Roberto Carlos?</string>
+			<key>Correct Answer</key>
+			<string>Brazil</string>
+			<key>Answers</key>
+			<array>
+				<string>Spain</string>
+				<string>Brazil</string>
+				<string>Uruguay</string>
+				<string>Argentina</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>How many times did the USSR win the European Football Championship?</string>
+			<key>Correct Answer</key>
+			<string>1</string>
+			<key>Answers</key>
+			<array>
+				<string>0</string>
+				<string>2</string>
+				<string>1</string>
+				<string>3</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What does the football term &quot;referee point to the point&quot; ?</string>
+			<key>Correct Answer</key>
+			<string>Penalty</string>
+			<key>Answers</key>
+			<array>
+				<string>Corner</string>
+				<string>Central field</string>
+				<string>Freekick</string>
+				<string>Penalty</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
