@@ -111,19 +111,19 @@ class RightorWrongViewController: UIViewController {
             outOfTime()
         }
     }
-    
+    private var dis = DisableButtons()
     func outOfTime(){
         timer.invalidate()
         showAlert(slow: true)
-        disableButtons()
+        dis.disableButtons(buttons: answerButtons)
     }
     
-    func disableButtons(){
-        for button in answerButtons{
-            button.isEnabled = false
-        }
-        
-    }
+//    func disableButtons(){
+//        for button in answerButtons{
+//            button.isEnabled = false
+//        }
+//
+//    }
     
     func showAlert(slow: Bool) {
         

@@ -115,18 +115,18 @@ class ImageViewController: UIViewController {
             outOfTime()
         }
     }
-    
+    private var dis = DisableButtons()
     func outOfTime(){
         timer.invalidate()
         showAlert(slow: true)
-        disableButtons()
+        dis.disableButtons(buttons: answerButtons)
     }
     
-    func disableButtons() {
-        answerButtons.forEach {
-            $0.isEnabled = false
-        }
-    }
+//    func disableButtons() {
+//        answerButtons.forEach {
+//            $0.isEnabled = false
+//        }
+//    }
     
     func showAlert(slow: Bool) {
         
