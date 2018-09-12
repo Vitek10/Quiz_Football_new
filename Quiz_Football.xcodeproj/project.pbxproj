@@ -34,6 +34,7 @@
 		29A1A4DA1F18F7650075C4D5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29A1A4D91F18F7650075C4D5 /* AppDelegate.swift */; };
 		29A1A4E11F18F7650075C4D5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 29A1A4E01F18F7650075C4D5 /* Assets.xcassets */; };
 		29A1A4E41F18F7650075C4D5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 29A1A4E21F18F7650075C4D5 /* LaunchScreen.storyboard */; };
+		29C14F9B214866A30094F611 /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29C14F9A214866A30094F611 /* BaseViewController.swift */; };
 		29F28B292145313F008EF93C /* UIColor+rgb.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29F28B282145313F008EF93C /* UIColor+rgb.swift */; };
 		29F9705E1F2CD2C100A51EF8 /* English.png in Resources */ = {isa = PBXBuildFile; fileRef = 29F9705D1F2CD2C100A51EF8 /* English.png */; };
 		29F970681F2CD64700A51EF8 /* Russian.png in Resources */ = {isa = PBXBuildFile; fileRef = 29F970671F2CD64700A51EF8 /* Russian.png */; };
@@ -75,6 +76,7 @@
 		29A1A4E01F18F7650075C4D5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		29A1A4E31F18F7650075C4D5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		29A1A4E51F18F7650075C4D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		29C14F9A214866A30094F611 /* BaseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
 		29F28B282145313F008EF93C /* UIColor+rgb.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIColor+rgb.swift"; sourceTree = "<group>"; };
 		29F9705D1F2CD2C100A51EF8 /* English.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = English.png; sourceTree = "<group>"; };
 		29F970671F2CD64700A51EF8 /* Russian.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Russian.png; sourceTree = "<group>"; };
@@ -154,6 +156,7 @@
 				2951910B1F2B9331000B0E86 /* ChangLangViewController.swift */,
 				29F28B282145313F008EF93C /* UIColor+rgb.swift */,
 				290822772148346700E0177B /* Base.swift */,
+				29C14F9A214866A30094F611 /* BaseViewController.swift */,
 			);
 			name = Support;
 			sourceTree = "<group>";
@@ -283,6 +286,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				29C14F9B214866A30094F611 /* BaseViewController.swift in Sources */,
 				290822782148346700E0177B /* Base.swift in Sources */,
 				29391CD81F1911040082C4D6 /* Configuration.swift in Sources */,
 				29391CF41F1911D20082C4D6 /* Records.swift in Sources */,

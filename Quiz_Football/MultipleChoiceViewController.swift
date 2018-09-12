@@ -112,11 +112,12 @@ class MultipleChoiceViewController: UIViewController {
             outOfTime()
         }
     }
-    private var dis = DisableButtons()
+    //private var dis = DisableButtons()
     func outOfTime(){
         timer.invalidate()
         showAlert(slow: true)
-        dis.disableButtons(buttons: answerButtons)
+        dis.disable(btn: answerButtons)
+        
     }
     
 //    func disableButtons(){
