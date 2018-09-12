@@ -9,11 +9,17 @@
 import UIKit
 
 class BaseViewController: UIViewController {
+   var timer = Timer()
    var button = UIButton()
-    func disable(btn: [UIButton]){
+    var show:Bool = false
+    func outofTime(btn: [UIButton]){
+        timer.invalidate()
         for btn in [button]{
             btn.isEnabled = false
         }
+        showAlMul.showAlert(slow: show)
+        showAlRig.showAlert(slow: show)
+        showAlImg.showAlert(slow: show)
     }
 }
 let dis = BaseViewController()

@@ -112,15 +112,15 @@ class ImageViewController: UIViewController {
         progressView.progress -= 0.01 / 30
         
         if progressView.progress <= 0 {
-            outOfTime()
+            dis.outofTime(btn: answerButtons)
         }
     }
     //private var dis = DisableButtons()
-    func outOfTime(){
-        timer.invalidate()
-        showAlert(slow: true)
-        dis.disable(btn: answerButtons)
-    }
+//    func outOfTime(){
+//        timer.invalidate()
+//        showAlert(slow: true)
+//        //dis.outofTime()
+//    }
     
 //    func disableButtons() {
 //        answerButtons.forEach {
@@ -160,3 +160,4 @@ class ImageViewController: UIViewController {
         _ = navigationController?.popToRootViewController(animated: true)
     }
 }
+let showAlImg = RightorWrongViewController()

@@ -109,16 +109,15 @@ class MultipleChoiceViewController: UIViewController {
     @objc func updateProgressView(){
         progressView.progress -= 0.01/30
         if progressView.progress <= 0 {
-            outOfTime()
+        dis.outofTime(btn: answerButtons)
         }
     }
     //private var dis = DisableButtons()
-    func outOfTime(){
-        timer.invalidate()
-        showAlert(slow: true)
-        dis.disable(btn: answerButtons)
-        
-    }
+//    func outOfTime(){
+//        timer.invalidate()
+//        showAlert(slow: true)
+//        dis.disable(btn: answerButtons)
+//    }
     
 //    func disableButtons(){
 //        for button in answerButtons{
@@ -156,21 +155,8 @@ class MultipleChoiceViewController: UIViewController {
         self.present(alertController, animated: true, completion: nil)
         
     }
-    
     func backToMenu(){
        _  = navigationController?.popToRootViewController(animated: true)
     }
-    
-    
-    
-    /*
-     // MARK: - Navigation
-     
-     // In a storyboard-based application, you will often want to do a little preparation before navigation
-     override func prepareForSegue(segue: UIStoryboardSegue, sender: AnyObject?) {
-     // Get the new view controller using segue.destinationViewController.
-     // Pass the selected object to the new view controller.
-     }
-     */
-    
 }
+let showAlMul = MultipleChoiceViewController()
